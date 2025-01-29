@@ -1,4 +1,4 @@
-A organização em questão conta um pouco sobre a minha jornada [Adailton](https://github.com/amskywalker) na Universidade Federal de Sergipe (UFS)
+A organização em questão conta um pouco sobre a jornada de [Adailton](https://github.com/amskywalker) e alguns cenários, seus amigos, na Universidade Federal de Sergipe (UFS)
 
 ### Ética em processamento de imagen
 https://www.youtube.com/watch?v=4lOUgg2unNU
